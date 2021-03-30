@@ -53,7 +53,7 @@
                     <ul>
 
                         <li>
-                          <a href="/phpinfo.php">Какая-то шляпа по басурманскиn</a>
+                          <a href="/phpinfo.php">Какая-то шляпа по басурмански</a>
                           (to disable: rm /var/www/phpinfo.php)
                         </li>
                         <li>
